@@ -17,7 +17,7 @@ public class Animal  {
 		this.edad = edad;
 		this.adoptado=false;
 	}
-	hola xd
+	System.out.println("ahreloco");
 	
 
 }
