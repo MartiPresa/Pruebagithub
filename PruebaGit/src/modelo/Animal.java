@@ -17,7 +17,7 @@ public class Animal  {
 		this.edad = edad;
 		this.adoptado=false;
 	}
-	System.out.println("ahre");
+	hola
 	
 
 }
